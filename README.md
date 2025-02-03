@@ -1,2 +1,2 @@
 # Whatsapp-clone
- What's up
+ What's up my people
